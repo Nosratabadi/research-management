@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/research-management/static/css/main.910453bf.css",
+    "main.js": "/research-management/static/js/main.47db64d4.js",
+    "static/js/488.aacea360.chunk.js": "/research-management/static/js/488.aacea360.chunk.js",
+    "index.html": "/research-management/index.html",
+    "main.910453bf.css.map": "/research-management/static/css/main.910453bf.css.map",
+    "main.47db64d4.js.map": "/research-management/static/js/main.47db64d4.js.map",
+    "488.aacea360.chunk.js.map": "/research-management/static/js/488.aacea360.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.910453bf.css",
+    "static/js/main.47db64d4.js"
+  ]
+}
